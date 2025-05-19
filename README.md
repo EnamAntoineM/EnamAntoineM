@@ -37,8 +37,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnamAntoineM&show_icons=true&theme=radical" height = "200" width = "225" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnamAntoineM&layout=compact&theme=radical" height = "200" width = "225" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EnamAntoineM&show_icons=true&theme=radical" height = "300" width = "325" alt="Stats"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnamAntoineM&layout=compact&theme=radical" height = "300" width = "325" alt="Languages"/>
 </p>
 
 <div align = "center">
