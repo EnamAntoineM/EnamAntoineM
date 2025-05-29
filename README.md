@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdzYmYwdzA1ejY5NHNtajlybWhybzNpdzY2aHFycmF3eDhxY3dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itKu0npJcjBpY05dlF/giphy.gif" width="500"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdzYmYwdzA1ejY5NHNtajlybWhybzNpdzY2aHFycmF3eDhxY3dkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itKu0npJcjBpY05dlF/giphy.gif" width="400"/>
 </p>
 
 # 👋 Hi, I’m Enam, avoiding SIGSEGV UP THERE
