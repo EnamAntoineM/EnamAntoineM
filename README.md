@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Enam, avoiding SIGSEGV UP THERE
 <div align="center">
-    <h3> Admiring the mathematics in CS?</h3>
+    <h3> Admiring the mathematics in CS</h3>
     <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enam-kodjoh-kpakpassou-210569360/" height = "35"/>
     <img src = "https://visitor-badge.laobi.icu/badge?page_id=EnamAntoineM.EnamAntoineM)](https://visitor-badge.laobi.icu/badge?page_id=EnamAntoineM.EnamAntoineM" height = "35"/>
 </div>
